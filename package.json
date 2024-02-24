@@ -1,5 +1,5 @@
 {
-  "name": "tiktok-dl",
+  "name": "@deiutr/tiktok-dl",
   "version": "1.0.0",
   "description": "Video downloader for Tiktok.",
   "main": "app.js",

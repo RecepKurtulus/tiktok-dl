@@ -7,7 +7,7 @@ tiktok-dl is a npm package for downloading TikTok videos highest bitrate and wit
 Use the package manager [npm](https://www.npmjs.com/) to install tiktok-dl.
 
 ```bash
-npm install tiktok-dl
+npm i @deiutr/tiktok-dl
 ```
 
 ## Usage (NodeJS)
