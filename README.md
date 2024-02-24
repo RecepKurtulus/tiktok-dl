@@ -13,7 +13,7 @@ npm i @deiutr/tiktok-dl
 ## Usage (NodeJS)
 
 ```javascript
-const tiktokdl=require(tiktok-dl)
+const tiktokdl=require("@deiutr/tiktok-dl")
 
 const url="ur video link"
 //Required
@@ -21,7 +21,7 @@ const url="ur video link"
 const filePath="./Downloads"
 //Required
 
-tiktok-dl.downloadTiktokVideo(
+tiktokdl.downloadTiktokVideo(
 url,
 filePath
 )

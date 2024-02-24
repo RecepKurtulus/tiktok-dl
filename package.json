@@ -2,12 +2,12 @@
   "name": "@deiutr/tiktok-dl",
   "version": "1.0.1",
   "description": "Video downloader for Tiktok.",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "node app.js"
+    
   },
   "keywords": [
     "tiktok",
