@@ -19,8 +19,8 @@ const url="ur video link"
 //Required
 
 const filePath="./Downloads"
-
 //Required
+
 tiktok-dl.downloadTiktokVideo(
 url,
 filePath
